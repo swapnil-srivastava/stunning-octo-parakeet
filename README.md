@@ -43,4 +43,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 # stunning-octo-parakeet
 
-Nuxt JS 3 Application
+Nuxt 3 Application
